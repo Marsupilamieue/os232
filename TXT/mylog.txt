@@ -1,0 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+# LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 36 L03 GitHub and git related, including commit, push, pull
