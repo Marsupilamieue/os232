@@ -3,4 +3,7 @@
 # LogCode + Description List
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 36 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 1 L10 Assignment #00
+ZCZC W00 2 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 1 L11 Assignment #01
+ZCZC W00 2 L03 GitHub and git related, including commit, push, pull
