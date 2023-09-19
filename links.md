@@ -12,3 +12,5 @@ Website ini berisi permasalah ketika ingin membuat script yang mengeluarkan outp
 Website ini berisi tentang syntax yang berisi tentang pattern regex pada vim
 4. [Reggex]([https://regexr.com/])<br>
 Berisi live REGEX
+5. [How to Delete a File or Directory in Linux – Command to Remove a Folder and its Contents](https://www.freecodecamp.org/news/how-to-delete-a-file-or-directory-in-linux/#:~:text=Delete%20the%20directory%20and%20its,press%20%22Enter%22%20to%20confirm.)<br>
+Berisi tutorial singkat bagaimana cara delete file dan isinya di linux
