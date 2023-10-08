@@ -21,3 +21,5 @@ How to copy files to linux
 8. [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)<br>
 How to compress to tar and xz
 9. [Slides of Silberzast](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/)Slides of Silberzast
+10. [C Language Tutorial](https://www.w3schools.com/c/c_intro.php)<br>
+Tutorial for c language
