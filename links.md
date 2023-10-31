@@ -23,3 +23,5 @@ How to compress to tar and xz
 9. [Slides of Silberzast](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/)Slides of Silberzast
 10. [C Language Tutorial](https://www.w3schools.com/c/c_intro.php)<br>
 Tutorial for c language
+11. [Inside your computer - Bettina Bair](https://www.youtube.com/watch?v=AkFi90lZmXA)<br>
+How computer works
