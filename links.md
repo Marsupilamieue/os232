@@ -27,3 +27,5 @@ Tutorial for c language
 How computer works
 12. [SCP Linux Command – How to SSH File Transfer from Remote to Local](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)<br>
 What are SCP Commands and how to use SCP Commands
+13. [Kernotex](https://www.youtube.com/@Kernotex)
+Very Usefull channel that explain how to make linux from scratch
